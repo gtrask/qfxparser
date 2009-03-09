@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QFXParser", "QFXParser\QFXParser.csproj", "{8CDC88CE-9A8F-4378-AA96-F76D6C37AF44}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestQFXParser", "TestQFXParser\TestQFXParser.csproj", "{7B0E5FC9-327F-473E-97A6-A345B034A13B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CDC88CE-9A8F-4378-AA96-F76D6C37AF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CDC88CE-9A8F-4378-AA96-F76D6C37AF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CDC88CE-9A8F-4378-AA96-F76D6C37AF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CDC88CE-9A8F-4378-AA96-F76D6C37AF44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B0E5FC9-327F-473E-97A6-A345B034A13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B0E5FC9-327F-473E-97A6-A345B034A13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B0E5FC9-327F-473E-97A6-A345B034A13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B0E5FC9-327F-473E-97A6-A345B034A13B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
