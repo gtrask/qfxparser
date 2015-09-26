@@ -1,0 +1,1 @@
+The QFX parser library is a no frills parser for Quickbooks QFX files.  More advanced applications can be developed on top of this basic parser much the same way that a basic XML parser is the foundation of much of our XML technology.
